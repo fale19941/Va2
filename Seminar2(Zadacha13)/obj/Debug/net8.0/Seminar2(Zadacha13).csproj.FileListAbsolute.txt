@@ -13,3 +13,4 @@ D:\Papochka Zootopia\Donald (and Git)\Donald5(MK)\Seminar2(Zadacha13)\obj\Debug\
 D:\Papochka Zootopia\Donald (and Git)\Donald5(MK)\Seminar2(Zadacha13)\obj\Debug\net8.0\Seminar2(Zadacha13).pdb
 D:\Papochka Zootopia\Donald (and Git)\Donald5(MK)\Seminar2(Zadacha13)\obj\Debug\net8.0\Seminar2(Zadacha13).genruntimeconfig.cache
 D:\Papochka Zootopia\Donald (and Git)\Donald5(MK)\Seminar2(Zadacha13)\obj\Debug\net8.0\ref\Seminar2(Zadacha13).dll
+D:\Papochka Zootopia\Donald (and Git)\Donald5(MK)\Seminar2(Zadacha13)\obj\Debug\net8.0\Seminar2(Zadacha13).sourcelink.json
