@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Donald5(MK)/1.0.0": {
+        "runtime": {
+          "Donald5(MK).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donald5(MK)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
